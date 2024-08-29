@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&display=swap');
+* { 
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bolsa{
+    width: 18%;
+    padding-bottom: 30px;
+    position:absolute;
+    right: 3%;
+    align-items: center;
+   
+    
+}
+.number{
+    
+    position:absolute;
+    right: 3px;
+    align-items: center;
+   
+}
